@@ -11,11 +11,11 @@ elif cas<6:
     print("Dobrou noc")
 elif cas<10:
     print("Dobré ráno")
-elif cas=12:
+elif cas == 12:
     print("Dobré poledne")
 elif cas<18:
     print("Dobrý den")
 elif cas<22:
     print("Dobrý večer")
-else cas:
+else:
     print("Dobrou noc")
